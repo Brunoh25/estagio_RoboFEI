@@ -9,16 +9,15 @@ Alguns dias passados realizando testes e acompanhando o restante da equipe, foi 
 
 Essa tarefa consiste em, o robô ter a função de supervisionar uma festa dentro de uma casa, enquanto anda pelos cômodos e garante que 4 tarefas estejam sendo cumpridas, sendo elas:
 
-No shoes inside the house (Sem calçados dentro de casa) - Caso haja um convidado com calçados dentro da casa, explicar ao convidado a regra, levá-lo até a entrada e solicitar a retirada dos calçados.
+***No shoes inside the house (Sem calçados dentro de casa)*** - Caso haja um convidado com calçados dentro da casa, explicar ao convidado a regra, levá-lo até a entrada e solicitar a retirada dos calçados.
 
-Forbidden room (Quarto proibido) - Há um cômodo proibido dentro da casa, caso haja um convidado neste cômodo, explicar ao convidado a regra e levá-lo até o cômodo mais próximo.
+***Forbidden room (Quarto proibido)*** - Há um cômodo proibido dentro da casa, caso haja um convidado neste cômodo, explicar ao convidado a regra e levá-lo até o cômodo mais próximo.
 
-No littering (Sem lixo no chão) - Caso haja lixo no chão, identificar o convidado mais próximo ao lixo, explicar ao convidado a regra e pedir para recolher o lixo, e jogá-lo na lata de lixo.
+***No littering (Sem lixo no chão)*** - Caso haja lixo no chão, identificar o convidado mais próximo ao lixo, explicar ao convidado a regra e pedir para recolher o lixo, e jogá-lo na lata de lixo.
 
-Compulsory hydration (Hidratação compulsória) - Caso algum convidado não esteja segurando uma bebida, explicar ao convidado a regra, levá-lo até a cozinha e solicitar que pegue alguma bebida.
+***Compulsory hydration (Hidratação compulsória)*** - Caso algum convidado não esteja segurando uma bebida, explicar ao convidado a regra, levá-lo até a cozinha e solicitar que pegue alguma bebida.
 
-Como orientação do capitão da equipe inicialmente elaborei um arquivo resumo que continha as capacidades necessárias para o robô, uma descrição dissertativa de toda a lógica que seria realizada durante a tarefa e por fim um workflow representando essa mesma lógica. O conteúdo deste arquivo pode ser no visto em <a href="Stickler for the rules.pdf">Stickler for the rules</a>.
-<embed src="https://github.com/Brunoh25/estagio_RoboFEI/Stickler for the Rules.pdf" width="100%" height="850px"/>
+Como orientação do capitão da equipe inicialmente elaborei um arquivo resumo que continha as capacidades necessárias para o robô, uma descrição dissertativa de toda a lógica que seria realizada durante a tarefa e por fim um workflow representando essa mesma lógica. O conteúdo deste arquivo pode ser visto em <a href="Stickler for the rules.pdf">Stickler for the rules</a>.
 
 Em seguida, tive acesso a códigos de Tasks de competições anteriores para estudar, entender melhor como são utilizadas as funções de manipulação, visão e navegação na HERA, e usar como base para realizar meu projeto. Inicialmente estruturei a <a href="codigo_inicial.py">primeira versão</a> do código, onde a lógica desenvolvida anteriormente no arquivo resumo, foi passada para um código de programação efetivo.
 
