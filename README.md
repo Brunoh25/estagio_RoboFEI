@@ -17,7 +17,8 @@ No littering (Sem lixo no chão) - Caso haja lixo no chão, identificar o convid
 
 Compulsory hydration (Hidratação compulsória) - Caso algum convidado não esteja segurando uma bebida, explicar ao convidado a regra, levá-lo até a cozinha e solicitar que pegue alguma bebida.
 
-Como orientação do capitão da equipe inicialmente elaborei um arquivo resumo que continha as capacidades necessárias para o robô, uma descrição dissertativa de toda a lógica que seria realizada durante a tarefa e por fim um workflow representando essa mesma lógica. O conteúdo deste arquivo pode ser no visto em <a href="Stickler for the Rules.pdf">Stickler for the Rules</a>.
+Como orientação do capitão da equipe inicialmente elaborei um arquivo resumo que continha as capacidades necessárias para o robô, uma descrição dissertativa de toda a lógica que seria realizada durante a tarefa e por fim um workflow representando essa mesma lógica. O conteúdo deste arquivo pode ser no visto em <a href="Stickler for the rules.pdf">Stickler for the rules</a>.
+<embed src="https://github.com/Brunoh25/estagio_RoboFEI/Stickler for the Rules.pdf" width="100%" height="850px"/>
 
 Em seguida, tive acesso a códigos de Tasks de competições anteriores para estudar, entender melhor como são utilizadas as funções de manipulação, visão e navegação na HERA, e usar como base para realizar meu projeto. Inicialmente estruturei a <a href="codigo_inicial.py">primeira versão</a> do código, onde a lógica desenvolvida anteriormente no arquivo resumo, foi passada para um código de programação efetivo.
 
